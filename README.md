@@ -1,6 +1,6 @@
 # ApplyPilot AI
 
-**An AI job-application assistant for Chrome.** It fills in application forms from your saved profile, attaches your resume, analyzes job descriptions, writes cover letters and answers screening questions with Groq, and tracks every application on a Kanban board.
+**An AI job-application assistant for Chrome built using AdaL.** It fills in application forms from your saved profile, attaches your resume, analyzes job descriptions, writes cover letters and answers screening questions with Groq, and tracks every application on a Kanban board.
 
 **Free. No account. No API key needed.** Works in Chrome, Edge, Brave, Opera, Vivaldi and Arc.
 
