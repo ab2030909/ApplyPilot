@@ -13,3 +13,5 @@ server/.env
 server/.env.*
 !server/.env.example
 testsite/*.pdf
+prompt.txt
+videoprompt.txt
