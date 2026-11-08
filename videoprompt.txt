@@ -1,0 +1,328 @@
+# MASTER VIDEO PRODUCTION PROMPT — APPLYPILOT AI
+
+You are an award-winning creative director, SaaS marketing filmmaker, product marketing strategist, motion graphics artist, and AI video production expert.
+
+Your task is to produce a complete, premium-quality marketing advertisement for **ApplyPilot AI**, an AI-powered job application assistant.
+
+You have access to Seedance 2.5. Use it as the primary cinematic video generation engine. Do not just give me a storyboard or a list of prompts. I want you to actually produce the finished marketing video, including generated scenes, transitions, voiceover, sound design, captions, and final editing.
+
+## 1. Understand the product first
+
+Project location:
+`C:\Users\Abdullah\Desktop\applyforme`
+
+Study the actual project, README, dashboard, Chrome extension, and available assets before producing the video.
+
+ApplyPilot AI is a Chrome extension with a web dashboard that helps job seekers manage and simplify job applications.
+
+Its capabilities include:
+
+- **Smart Autofill:** Detects job application form fields and fills them using the user's saved profile.
+- **Resume Management:** Upload, manage, and select multiple PDF/DOCX resumes.
+- **Job Analyzer:** Extracts important information from job descriptions.
+- **AI Job Matching:** Compares a candidate's resume with job requirements and identifies matching and missing skills.
+- **AI Cover Letter Generator:** Creates personalized cover letters.
+- **Application Assistant:** Helps answer application questions using the candidate's actual qualifications.
+- **Resume Optimizer:** Suggests improvements for a particular job.
+- **Job Tracker:** Tracks applications through Saved, Applied, Assessment, Interview, Offer, Rejected, and Withdrawn.
+- **Privacy-first approach:** User data is stored locally by default. AI processing is optional and requires backend configuration.
+
+Important product rules:
+- ApplyPilot AI never automatically submits job applications.
+- Autofill offers a preview and lets users select fields.
+- Do not portray AI features as verified unless they have actually been tested.
+- Never invent features or show fake integrations.
+- Do not show fabricated testimonials, user numbers, ratings, or statistics.
+
+## 2. Creative direction
+
+Create an advertisement that feels like a combination of:
+
+- A premium Apple-style product commercial.
+- A futuristic AI startup launch film.
+- A polished SaaS product demonstration.
+- A cinematic technology advertisement.
+
+**Visual identity:**
+- Primary background: Deep black (#080808).
+- Accent: Electric orange (#FF7900).
+- Secondary: White and charcoal.
+- Subtle orange glow, particle effects and dotted textures.
+- Futuristic but minimal.
+- Sharp typography and beautiful motion graphics.
+- Smooth camera movements and cinematic depth.
+
+Use the existing ApplyPilot AI logo and astronaut/pixel-inspired visual identity where appropriate.
+
+Avoid generic stock footage, excessive neon, cheap templates, childish animation, and cluttered layouts.
+
+## 3. Complete advertisement storyboard
+
+Produce the following scenes as one coherent advertisement.
+
+### SCENE 1 — THE PROBLEM (0–8 seconds)
+
+Show a cinematic scene of a young professional sitting at a desk late at night.
+
+Multiple browser tabs, job portals, application forms, resume files, and rejection emails fill the screen.
+
+Show the frustration of repeatedly entering the same information into different application forms.
+
+Camera: Slow cinematic push-in.
+
+Lighting: Dark, moody blue-black environment.
+
+Text on screen:
+
+"Searching for jobs shouldn't feel like a full-time job."
+
+Sound: Subtle keyboard typing, notification sounds, atmospheric cinematic music.
+
+### SCENE 2 — THE INTRODUCTION (8–15 seconds)
+
+Everything freezes.
+
+The environment fades into complete darkness.
+
+A bright electric-orange light appears, revealing the ApplyPilot AI logo.
+
+Create an elegant logo reveal with particles and a futuristic transition.
+
+Show:
+
+"MEET APPLYPILOT AI"
+
+Subtitle:
+
+"Your AI Copilot for Job Applications."
+
+Make this moment feel like a major technology product launch.
+
+### SCENE 3 — THE PRODUCT EXPERIENCE (15–25 seconds)
+
+Show the actual ApplyPilot AI dashboard.
+
+Use real screenshots or recordings from the running project.
+
+Demonstrate:
+- The dark dashboard.
+- Application statistics.
+- Profile completion.
+- Resume in use.
+- AI quick actions.
+- Recent applications.
+
+Use smooth camera movements, UI zooms, and elegant motion graphics.
+
+Voiceover:
+
+"One intelligent workspace to manage your entire job application journey."
+
+### SCENE 4 — SMART AUTOFILL (25–35 seconds)
+
+Show a realistic job application website.
+
+A user opens the ApplyPilot Chrome extension.
+
+Demonstrate the actual workflow:
+
+1. Open a job application form.
+2. Click ApplyPilot.
+3. Detect form fields.
+4. Preview detected fields and suggested values.
+5. Select fields.
+6. Fill the application automatically.
+7. Attach the selected resume when supported.
+
+Show the form filling smoothly.
+
+Voiceover:
+
+"Stop entering the same information again and again. ApplyPilot detects application fields and fills them using your saved profile."
+
+Important: Show the preview before filling. Do not show automatic submission.
+
+### SCENE 5 — AI JOB INTELLIGENCE (35–45 seconds)
+
+Show a job description being analyzed.
+
+Transition into a sophisticated AI interface.
+
+Show:
+- Job requirements.
+- Required skills.
+- Matching skills.
+- Missing skills.
+- Resume match score.
+- Improvement suggestions.
+
+Then transition into a personalized cover letter and application answer.
+
+Voiceover:
+
+"Understand every opportunity, discover your skill gaps, optimize your resume, and create personalized application content with AI."
+
+Use actual application interfaces and only display AI results after they have been verified.
+
+### SCENE 6 — APPLICATION TRACKING (45–53 seconds)
+
+Show the ApplyPilot Job Tracker.
+
+Demonstrate applications moving through:
+
+Saved → Applied → Assessment → Interview → Offer.
+
+Show a clean Kanban board, application details, and progress statistics.
+
+Voiceover:
+
+"Keep every opportunity organized. Track your progress from your first application to your next interview."
+
+### SCENE 7 — PRIVACY AND SIMPLICITY (53–60 seconds)
+
+Show a beautiful minimalist visual of a laptop with the ApplyPilot dashboard.
+
+Display three short messages:
+
+"Your data stays yours."
+
+"Local-first by design."
+
+"AI when you need it."
+
+Voiceover:
+
+"Your career information stays under your control. No mandatory account required to get started."
+
+Do not imply that AI processing happens without backend configuration or consent.
+
+### SCENE 8 — FINAL BRAND REVEAL (60–75 seconds)
+
+Create a cinematic closing shot.
+
+A futuristic astronaut sits on a rocky surface overlooking a massive orange planet.
+
+A laptop displays the ApplyPilot AI dashboard.
+
+The ApplyPilot logo appears in the foreground.
+
+Main text:
+
+"YOUR NEXT OPPORTUNITY STARTS HERE."
+
+Supporting text:
+
+"Find. Tailor. Apply. Track."
+
+Final CTA:
+
+"MEET APPLYPILOT AI"
+
+"Your AI Copilot for Job Applications."
+
+End with the logo and a subtle orange light animation.
+
+Make the ending memorable and premium.
+
+## 4. Voiceover and audio
+
+Use a professional, confident, youthful English voice.
+
+Voice characteristics:
+- Clear and natural.
+- Slightly futuristic.
+- Confident, not overly dramatic.
+- Startup launch commercial style.
+- Excellent pronunciation.
+
+Create original background music:
+- Cinematic electronic soundtrack.
+- Ambient futuristic synths.
+- Deep bass.
+- Subtle percussion.
+- Gradual build-up.
+- Powerful but elegant ending.
+
+Synchronize transitions and UI interactions with sound effects.
+
+Do not use copyrighted commercial music.
+
+## 5. Seedance 2.5 production instructions
+
+Use Seedance 2.5 to generate cinematic scenes.
+
+For each scene:
+- Generate the necessary video shots.
+- Maintain visual consistency between shots.
+- Maintain consistent lighting and orange-black color grading.
+- Use smooth camera movement.
+- Avoid distorted human hands, faces, laptops, and screens.
+- Avoid malformed text and incorrect logos.
+- Use actual product screenshots for UI shots rather than relying on AI to recreate interfaces.
+- Use image references to maintain the same astronaut and brand identity.
+- Use multiple shots where necessary.
+- Use cinematic transitions rather than abrupt cuts.
+
+For UI demonstrations, prioritize actual screen recordings and compositing over generated footage.
+
+## 6. Editing and post-production
+
+After generating the scenes:
+
+1. Assemble everything into one coherent video.
+2. Add professional transitions.
+3. Add synchronized voiceover.
+4. Add cinematic sound design.
+5. Add subtitles and animated typography.
+6. Apply consistent color grading.
+7. Insert the actual ApplyPilot AI logo.
+8. Ensure all product screens are readable.
+9. Balance music and voiceover.
+10. Review the final video for visual glitches and incorrect product claims.
+
+Do not deliver disconnected clips. Deliver a finished advertisement.
+
+## 7. Export requirements
+
+Produce:
+
+**Main advertisement**
+- 1920 × 1080.
+- 16:9 aspect ratio.
+- 60–75 seconds.
+- MP4.
+- High-quality H.264 export.
+
+**Social media advertisement**
+- 1080 × 1920.
+- 9:16 aspect ratio.
+- Adapted composition, not simply cropped.
+- Optimized for Instagram Reels, TikTok, and YouTube Shorts.
+
+**Additional deliverables**
+- Final voiceover script.
+- Scene-by-scene production breakdown.
+- Thumbnail for YouTube.
+- A clean logo ending.
+- Separate social media cut.
+
+## 8. Quality expectations
+
+This must look like a professionally funded startup's product launch advertisement.
+
+Prioritize:
+1. Clear product demonstration.
+2. Strong storytelling.
+3. Cinematic visuals.
+4. Premium motion design.
+5. Accurate product representation.
+6. Memorable branding.
+7. Strong marketing message.
+
+Do not stop after writing the storyboard.
+
+Inspect the project, collect real assets, generate the video scenes with Seedance 2.5, edit them together, and export the final deliverables.
+
+If a capability or asset is unavailable, explain the limitation rather than pretending it was completed.
+
+**FINAL OBJECTIVE: Create a launch-quality marketing video that makes someone watching it immediately understand what ApplyPilot AI does, how to use it, and why they should try it.**

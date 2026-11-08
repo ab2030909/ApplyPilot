@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Software Engineering Intern – Acme Corp | Careers</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; }
+  label { display: block; margin-top: 14px; font-weight: 600; font-size: 14px; }
+  input, textarea, select { width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; }
+  .row { display: flex; gap: 12px; } .row > div { flex: 1; }
+</style>
+</head>
+<body>
+  <h1>Software Engineering Intern</h1>
+  <p>Acme Corp · Remote · Internship</p>
+  <section id="job-description">
+    <h2>About the role</h2>
+    <p>We are looking for a Software Engineering Intern to build web features with React and TypeScript, write Node.js APIs, and work with PostgreSQL. Experience with AWS and Docker is a plus. Pursuing a BS in Computer Science.</p>
+  </section>
+
+  <form id="application" onsubmit="event.preventDefault(); document.getElementById('submitted').textContent='SUBMITTED';">
+    <div class="row">
+      <div><label for="fname">First Name *</label><input id="fname" name="first_name" autocomplete="given-name" required /></div>
+      <div><label for="lname">Last Name *</label><input id="lname" name="last_name" autocomplete="family-name" required /></div>
+    </div>
+    <label for="em">Email address</label><input id="em" name="applicant_email" type="email" />
+    <label>Phone <input name="phone_number" type="tel" /></label>
+    <input name="q_city" placeholder="City" aria-label="City" />
+    <label for="country">Country</label>
+    <select id="country" name="country"><option value="">Select…</option><option>United States</option><option>Pakistan</option><option>Canada</option></select>
+    <label for="li">LinkedIn Profile</label><input id="li" name="urls[LinkedIn]" />
+    <input id="gh" name="urls[GitHub]" aria-label="GitHub URL" />
+    <label for="pf">Portfolio / Website</label><input id="pf" name="website" />
+    <label for="school">School / University</label><input id="school" name="school" />
+    <label for="degree">Degree</label><input id="degree" name="degree" />
+    <label for="major">Field of study</label><input id="major" name="discipline" />
+    <label for="grad">Graduation year</label><input id="grad" name="grad_year" />
+    <label for="co">Current company</label><input id="co" name="org" value="Already typed by user" />
+    <label for="title">Current job title</label><input id="title" name="current_title" />
+    <label for="react">Preferred name (React-controlled)</label><input id="react" name="preferred_name" />
+    <label for="why">Why do you want to work at Acme?</label><textarea id="why" name="why_acme"></textarea>
+    <label for="cl">Cover letter</label><textarea id="cl" name="cover_letter"></textarea>
+    <label for="resume">Resume/CV</label><input id="resume" name="resume" type="file" accept=".pdf,.doc,.docx" />
+    <label for="fav">Favorite ice-cream flavour</label><input id="fav" name="xyz_random" />
+    <button type="submit" style="margin-top:20px">Submit application</button>
+    <div id="submitted"></div>
+  </form>
+
+  <script>
+    // Simulate a React-controlled input: only accepts values set through the native setter + input event.
+    (function () {
+      const el = document.getElementById('react');
+      el.dataset.reactValue = '';
+      el.addEventListener('input', (e) => { el.dataset.reactValue = e.target.value; });
+    })();
+  </script>
+</body>
+</html>

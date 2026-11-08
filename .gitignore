@@ -1,0 +1,15 @@
+node_modules
+dist
+release
+server/dist
+*.log
+.DS_Store
+
+# secrets
+.env
+.env.*
+!.env.example
+server/.env
+server/.env.*
+!server/.env.example
+testsite/*.pdf

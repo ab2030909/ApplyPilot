@@ -1,0 +1,25 @@
+# One-click deploy of the ApplyPilot AI backend on Render (https://render.com).
+# Dashboard → New → Blueprint → pick this repo. Then set GROQ_API_KEY and
+# ALLOWED_EXTENSION_IDS in the service's Environment tab.
+services:
+  - type: web
+    name: applypilot-api
+    runtime: docker
+    rootDir: server
+    dockerfilePath: ./Dockerfile
+    plan: free
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: TRUST_PROXY
+        value: "1"
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: RATE_LIMIT_PER_MINUTE
+        value: "40"
+      - key: GROQ_API_KEY
+        sync: false
+      - key: ALLOWED_EXTENSION_IDS
+        sync: false
