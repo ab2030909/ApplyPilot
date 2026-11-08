@@ -6,6 +6,10 @@ on:
     tags: ['v*']
   pull_request:
 
+# Needed so tag builds can attach the zip to the GitHub Release.
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
